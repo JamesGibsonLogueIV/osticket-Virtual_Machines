@@ -2,7 +2,7 @@
 
 </p>
 
-<h1>Azure Virtual Machines - Creation</h1>
+<h1>Azure Virtual Machines - Creation/Deployment</h1>
 This tutorial outlines the creation and deployment of a virtual machine in Microsoft Azure.<br />
 
 
@@ -11,7 +11,7 @@ This tutorial outlines the creation and deployment of a virtual machine in Micro
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+
 
 <h2>Operating Systems Used </h2>
 
@@ -19,11 +19,10 @@ This tutorial outlines the creation and deployment of a virtual machine in Micro
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Microsoft Azure Account
+- Internet Connection
+- Computer or Laptop
+
 
 <h2>Installation Steps</h2>
 
