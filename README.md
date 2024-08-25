@@ -30,7 +30,7 @@ This tutorial outlines the creation and deployment of a virtual machine in Micro
 <img src="https://i.imgur.com/v2ev4d3.png" height="80%" width="80%"/>
 </p>
 <p>
-The first step is to click on virtual machines right underneath Azure Services. You can also type virtual machines into the search bar at the top.
+Once you are on the homescreen for Microsoft Azure, the first step is to click on virtual machines right underneath azure services. You can also type virtual machines into the search bar at the top.
 </p>
 <br />
 
