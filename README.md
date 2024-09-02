@@ -39,7 +39,7 @@ Once you are on the homescreen for Microsoft Azure, the first step is to click o
 </p>
 <p>
 Select create and then select azure virtual machine.
-  The screen above shows the basics tab. Select your Azure subsription.
+  The screen above shows the basics tab. Select your Azure subscription.
 </p>
 <br />
 
