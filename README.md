@@ -39,9 +39,8 @@ Once you are on the homescreen for Microsoft Azure, the first step is to click o
 </p>
 <p>
 Select create and then select azure virtual machine.
-  The screen above shows the basics tab. Select your Azure subscription.
-    1. A resource group will automatically be created if one does not exist already.
-    2. 
+The screen above shows the basics tab. Select your Azure subscription. A resource group will automatically be created if one does not exist already. THen, choose a name for your virtual machine and then select the region that you are operating in.
+
 </p>
 <br />
 
