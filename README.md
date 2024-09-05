@@ -35,7 +35,7 @@ Once you are on the homescreen for Microsoft Azure, the first step is to click o
 <br />
 
 <p>
-<img src="https://imgur.com/a/aYvFb6E.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/fBzUs1i.png" height="80%" width="80%"/>
 </p>
 
 1. The screen above shows the basics tab. Select your Azure subscription.
