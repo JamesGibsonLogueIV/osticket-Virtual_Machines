@@ -51,7 +51,11 @@ Once you are on the homescreen for Microsoft Azure, the first step is to click o
 <br />
 
 <p>
-  A virtual network will be given a name.
+ <img src="https://imgur.com/P9vPF63.png" height="80%" width="80%"/>
+</p>
+
+<p>
+  Network Tab
 </p>
 
 <p>
