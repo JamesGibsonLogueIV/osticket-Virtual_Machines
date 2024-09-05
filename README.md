@@ -79,7 +79,15 @@ On this tab, we can see an overview of the virtual machine along with its cost, 
 </p>
 
 <p>
+ Lorem
+</p>
+
+<p>
  <img src="https://imgur.com/zxRnLfd.png" height="80%" width="80%"/>
+</p>
+
+<p>
+ Lorem
 </p>
 
 <p>
@@ -87,11 +95,23 @@ On this tab, we can see an overview of the virtual machine along with its cost, 
 </p>
 
 <p>
+ Lorem
+</p>
+
+<p>
  <img src="https://imgur.com/zMYwUvI.png" height="80%" width="80%"/>
 </p>
 
 <p>
+ Lorem
+</p>
+
+<p>
  <img src="https://imgur.com/mQ2pUW9.png" height="80%" width="80%"/>
+</p>
+
+<p>
+ Lorem
 </p>
 
 
