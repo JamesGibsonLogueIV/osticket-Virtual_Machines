@@ -68,10 +68,31 @@ On this tab, we can see an overview of the virtual machine along with its cost, 
 <br />
 
 <p>
- <img src="https://imgur.com/uDJ7qqV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://imgur.com/uDJ7qqV.png" height="80%" width="80%"/>
 </p>
 <p>
  It will take a little bit for the virtual machine to deploy.
 </p>
+
+<p>
+ <img src="https://imgur.com/6LFV9qt.png" height="80%" width="80%"/>
+</p>
+
+<p>
+ <img src="https://imgur.com/zxRnLfd.png" height="80%" width="80%"/>
+</p>
+
+<p>
+ <img src="https://imgur.com/sCu252E.png" height="80%" width="80%"/>
+</p>
+
+<p>
+ <img src="https://imgur.com/zMYwUvI.png" height="80%" width="80%"/>
+</p>
+
+<p>
+ <img src="https://imgur.com/mQ2pUW9.png" height="80%" width="80%"/>
+</p>
+
 
 
