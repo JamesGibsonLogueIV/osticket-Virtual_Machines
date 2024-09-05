@@ -55,7 +55,7 @@ Once you are on the homescreen for Microsoft Azure, the first step is to click o
 </p>
 
 <p>
-  Network Tab
+ The above image is the network tab. Here you can see the default name for your virtual network, subnet and public IP address. Make note of them and select review+create, which is the final tab.
 </p>
 
 <p>
