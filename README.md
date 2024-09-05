@@ -57,11 +57,21 @@ Once you are on the homescreen for Microsoft Azure, the first step is to click o
 <p>
  The above image is the network tab. Here you can see the default name for your virtual network, subnet and public IP address. Make note of them and select review+create, which is the final tab.
 </p>
+<br />
 
 <p>
-<img src="https://imgur.com/osYsKsl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/osYsKsl.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On this tab, we can see an overview of the virtual machine along with its cost, which is mostly determined by the size that was chosen. The fewer the virtual processors, the cheaper it usually is. From here, we can just click on create at the bottom.                        
 </p>
 <br />
+
+<p>
+ <img src="https://imgur.com/uDJ7qqV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ It will take a little bit for the virtual machine to deploy.
+</p>
+
+
