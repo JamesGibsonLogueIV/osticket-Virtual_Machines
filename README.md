@@ -39,7 +39,8 @@ Once you are on the homescreen for Microsoft Azure, the first step is to click o
 </p>
 <p>
 1. Select create and then select azure virtual machine.
-The screen above shows the basics tab. Select your Azure subscription. You can now create a resource group or select one that has already been made. Then, choose a name for your virtual machine and then select the region that you are operating in. For availability zones and security type, you can select the first option. The next option is for the operating system, you can just select Windows 10 or 11. The last step is the size. For now you can choose the 1 vcpu thats the cheapest. For larger projects like running Osticket or an active directory, i would use an option with more virtual processors. Select the networking tab.
+2. The screen above shows the basics tab. Select your Azure subscription.
+You can now create a resource group or select one that has already been made. Then, choose a name for your virtual machine and then select the region that you are operating in. For availability zones and security type, you can select the first option. The next option is for the operating system, you can just select Windows 10 or 11. The last step is the size. For now you can choose the 1 vcpu thats the cheapest. For larger projects like running Osticket or an active directory, i would use an option with more virtual processors. Select the networking tab.
 
 </p>
 <br />
