@@ -44,7 +44,8 @@ Once you are on the homescreen for Microsoft Azure, the first step is to click o
 4. For availability zones and security type, you can select the first option.
 5. The next option is for the operating system, you can just select Windows 10 or 11.
 6. The last step is the size. For now you can choose the 1 vcpu thats the cheapest. For larger projects like running Osticket or an active directory, i would use an option with more virtual processors.
-7. Select the networking tab.
+7. Create your username and password
+8. Select the networking tab.
 
 
 <br />
