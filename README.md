@@ -3,14 +3,13 @@
 </p>
 
 <h1>Azure Virtual Machines - Creation/Deployment</h1>
-This tutorial outlines the creation and deployment of a virtual machine in Microsoft Azure.<br />
+This tutorial outlines the creation and deployment of a virtual machine in Microsoft Azure in order to operate osticket<br />
 
 
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
 
 
 <h2>Operating Systems Used </h2>
