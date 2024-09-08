@@ -79,12 +79,14 @@ On this tab, we can see an overview of the virtual machine along with its cost, 
 </p>
 
 <p>
- Lorem
+ This screen confirms that the virtual machine has been successfully deployed.
 </p>
 
 <p>
  <img src="https://imgur.com/zxRnLfd.png" height="80%" width="80%"/>
 </p>
+
+Back on the home screen, you can see both the virtual machine and the resource group associated with it.
 
 <p>
  Lorem
