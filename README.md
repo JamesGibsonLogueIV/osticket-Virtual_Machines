@@ -89,12 +89,10 @@ On this tab, we can see an overview of the virtual machine along with its cost, 
 Back on the home screen, you can see both the virtual machine and the resource group associated with it.
 
 <p>
- Lorem
-</p>
-
-<p>
  <img src="https://imgur.com/sCu252E.png" height="80%" width="80%"/>
 </p>
+
+Clicking on the virtual machine will show you all it's resources including the ip address and the security group where you can tinker with the firewall.
 
 <p>
  Lorem
