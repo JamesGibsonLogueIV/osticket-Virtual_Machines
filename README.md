@@ -86,16 +86,16 @@ On this tab, we can see an overview of the virtual machine along with its cost, 
  <img src="https://imgur.com/zxRnLfd.png" height="80%" width="80%"/>
 </p>
 
-Back on the home screen, you can see both the virtual machine and the resource group associated with it.
+<p>
+Back on the home screen, you can see both the virtual machine and the resource group associated with it. If they do not appear at all, refresh the webpage.
+</p>
 
 <p>
  <img src="https://imgur.com/sCu252E.png" height="80%" width="80%"/>
 </p>
 
-Clicking on the virtual machine will show you all it's resources including the ip address and the security group where you can tinker with the firewall.
-
 <p>
- Lorem
+ Clicking on the virtual machine will show you all it's resources including the ip address and the security group where you can tinker with the firewall.
 </p>
 
 <p>
@@ -103,7 +103,7 @@ Clicking on the virtual machine will show you all it's resources including the i
 </p>
 
 <p>
- Lorem
+ To delete the virtual machine and the resource group, select the resource froup and and then press delete resource group. You then have to type it out at the bottom of the right window it order to confirm it.
 </p>
 
 <p>
@@ -111,7 +111,7 @@ Clicking on the virtual machine will show you all it's resources including the i
 </p>
 
 <p>
- Lorem
+ After deleting the virual machine
 </p>
 
 
