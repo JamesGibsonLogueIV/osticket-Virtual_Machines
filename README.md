@@ -102,7 +102,7 @@ Back on the home screen, you can see both the virtual machine and the resource g
 </p>
 
 <p>
- To delete the virtual machine and the resource group, select the resource froup and and then press delete resource group. You then have to type it out at the bottom of the right window it order to confirm it.
+ To delete the virtual machine and the resource group, select the resource group and and then press delete resource group. You then have to type it out at the bottom of the right window it order to confirm it.
 </p>
 
   We now have a working virtual machine running in Azure. In the next session, we will discuss how to use remote desktop connection with the virtual machine.
